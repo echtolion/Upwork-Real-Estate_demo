@@ -1,0 +1,5 @@
+Flask>=2.0
+twilio>=7.0
+Flask-SQLAlchemy>=2.5
+python-dotenv>=0.19 # For managing environment variables like API keys
+gunicorn>=20.1 # Production WSGI server
